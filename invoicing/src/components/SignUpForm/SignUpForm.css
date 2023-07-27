@@ -1,0 +1,14 @@
+.Sign-container{
+    margin-right: 30%;
+    margin-left: 30%;
+    padding: 0px !important;
+    
+}
+
+@media screen and (max-width:600px){
+.Sign-container{
+    margin-right: 52px ;
+    margin-left: 30px;
+    padding: 0px !important;
+}
+}
